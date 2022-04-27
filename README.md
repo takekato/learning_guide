@@ -14,7 +14,7 @@
   - Docker ⇨ おすすめ
     - 仮想化ソフトウェア（コンテナ環境）
     - Dockerを使ってPCに簡単にLinux環境を作成可能
-    - Dockerのインストール
+    - Dockerのインストール(**Docker Desktopの商用利用は有償のため、社用PCには許可なくインストールしないでください**: [参考資料](https://matsuand.github.io/docs.docker.jp.onthefly/desktop/))
       - [Windows に Docker Desktop をインストール — Docker-docs-ja 19.03 ドキュメント](https://docs.docker.jp/docker-for-windows/install.html)
     - Docker Desktopを使ってLinux環境（CentOS）を構築
       - [【入門】はじめての Docker Desktop for Windows のインストールと CentOS の仮想環境構築のセットアップ - Qiita](https://qiita.com/gahoh/items/7b21377b5c9e3ffddf4a)
@@ -25,10 +25,10 @@
       - [Oracle VM VirtualBox](https://www.virtualbox.org/)
     - VirtualBoxを使ってLinux環境（CentOS）を構築
       - [【初心者でもわかる】VirtualBoxインストール方法を詳しく！](https://eng-entrance.com/virtualbox-install)
-  - VSCode
+  - Visual Studio Code(VSCode)
     - Microsoftが提供している無料エディタ
     - 「Terminal」を使ってWindowsをLinuxっぽく操作することができる
-    - VSCodeのインストール
+    - Visual Studio Codeのダウンロード
       - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
     - Terminalを操作する
       - [VSCode | ターミナルを開く/ターミナルを閉じる](https://www.javadrive.jp/vscode/terminal/index1.html)
@@ -40,7 +40,7 @@
   - Linuxコマンド
     - [Linuxコマンド集 INDEX | 日経クロステック（xTECH）](https://xtech.nikkei.com/it/article/COLUMN/20060224/230573/)
   - Linuxの資格（LPIC）
-    - [Linux Professional Institute](https://www.lpi.org/ja/)
+    - [Linux Professional Institute](https://www.lpi.org/ja)
 
 ## Database
 
@@ -111,8 +111,6 @@
   - [JSFiddle - Code Playground](https://jsfiddle.net/)
   - [StackBlitz | Instant Dev Environments | Click. Code. Done. - StackBlitz](https://stackblitz.com/)
   - [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
-- 環境を作って練習したい人
-  - VSCode
 - 学習サイト
   - Webデザイン入門
     - [HTML&CSS入門：イチからWebデザインを習得する講座](https://saruwakakun.com/html-css/basic)
